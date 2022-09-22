@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: MrEavesXLModNarOT-Heavy;
+    src: url("fonts/mreaves.ttf");
+}
+
+@font-face {
+    font-family: LcScript;
+    src: url("fonts/lcscript.woff2");
+}
